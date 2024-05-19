@@ -4,6 +4,7 @@ name = "tes" # todo
 #main = "test/worker/worker-connect-test.js"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
+
 [[routes]]
 pattern = "Doomvpn.filegear-sg.me"
 custom_domain = true
