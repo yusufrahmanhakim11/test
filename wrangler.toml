@@ -6,19 +6,19 @@ main = "_worker.js"
 compatibility_date = "2023-05-26"
 
 [[routes]]
-pattern = "Doomvpn.filegear-sg.me"
+pattern = "gcp.doomvpnfilegear-sgme"
 custom_domain = true
 [[routes]]
-pattern = "cf.shopee.ph.Doomvpn.filegear-sg.me"
+pattern = "static.line-scdn.net.doomvpnfilegear-sgme"
 custom_domain = true
 [[routes]]
-pattern = "cf.shopee.ph.Doomvpn.filegear-sg.me"
+pattern = "static.line-scdn.net.doomvpnfilegear-sgme"
 custom_domain = true
 [[routes]]
-pattern = "cf.shopee.ph.Doomvpn.filegear-sg.me"
+pattern = "static.line-scdn.net.doomvpnfilegear-sgme"
 custom_domain = true
 [[routes]]
-pattern = "cf.shopee.ph.Doomvpn.filegear-sg.me"
+pattern = "static.line-scdn.net.doomvpnfilegear-sgme"
 custom_domain = true
 
 [vars]
